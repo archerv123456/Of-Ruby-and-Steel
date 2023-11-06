@@ -1,0 +1,62 @@
+{
+  "item.examplemod.ruby": "Ruby",
+  "item.examplemod.raw_ruby": "Raw Ruby",
+
+  "item.examplemod.steel": "Steel Ingot",
+  "item.examplemod.steel_nugget": "Steel Nugget",
+  "item.examplemod.raw_steel": "Raw Steel",
+
+  "item.examplemod.metal_detector": "Metal Detector",
+  "item.examplemod.ruby_pickaxe": "Ruby Pickaxe",
+  "item.examplemod.ruby_axe": "Ruby Axe",
+  "item.examplemod.ruby_shovel": "Ruby Shovel",
+  "item.examplemod.ruby_sword": "Ruby Sword",
+  "item.examplemod.ruby_hoe": "Ruby Hoe",
+
+  "item.examplemod.steel_pickaxe": "Steel Pickaxe",
+  "item.examplemod.steel_axe": "Steel Axe",
+  "item.examplemod.steel_shovel": "Steel Shovel",
+  "item.examplemod.steel_shortsword": "Steel Shortsword",
+  "item.examplemod.steel_longsword": "Steel Longsword",
+  "item.examplemod.steel_hoe": "Steel Hoe",
+
+  "item.examplemod.ruby_helmet": "Ruby Helmet",
+  "item.examplemod.ruby_chestplate": "Ruby Chestplate",
+  "item.examplemod.ruby_leggings": "Ruby Leggings",
+  "item.examplemod.ruby_boots": "Ruby Boots",
+
+  "item.examplemod.steel_helmet": "Steel Helmet",
+  "item.examplemod.steel_chestplate": "Steel Chestplate",
+  "item.examplemod.steel_leggings": "Steel Leggings",
+  "item.examplemod.steel_boots": "Steel Boots",
+
+  "block.examplemod.steel_block": "Block of Steel",
+
+  "block.examplemod.ruby_block": "Block of Ruby",
+  "block.examplemod.raw_ruby_block": "Block of Raw Ruby",
+
+  "block.examplemod.sound_block": "Sound Block",
+
+  "block.examplemod.ruby_ore": "Ruby Ore",
+  "block.examplemod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.examplemod.nether_ruby_ore": "Netherrack Ruby Ore",
+  "block.examplemod.end_stone_ruby_ore": "End Stone Ruby Ore",
+
+  "block.examplemod.steel_ore": "Steel Ore",
+  "block.examplemod.deepslate_steel_ore": "Deepslate Steel Ore",
+
+
+  "itemgroup.ruby": "Ruby Items",
+  "itemgroup.steel": "Steel Items",
+
+  "enchantment.examplemod.frost": "Frost",
+  "enchantment.examplemod.glowing": "Glowing",
+  "enchantment.examplemod.weakening": "Weakening",
+  "enchantment.examplemod.poison": "Poison",
+  "enchantment.examplemod.extra_health": "Extra Health",
+  "enchantment.examplemod.health_drain": "Health Drain",
+  "enchantment.examplemod.slowness_curse": "Slowness Curse",
+  "enchantment.examplemod.weakness_curse": "Weakness Curse",
+  "enchantment.examplemod.instantdamage_curse": "Damaging Curse"
+
+}
