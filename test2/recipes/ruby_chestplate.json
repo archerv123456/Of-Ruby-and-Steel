@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "item": "examplemod:ruby"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "R R",
+    "RRR",
+    "dRd"
+  ],
+  "result": {
+    "item": "examplemod:ruby_chestplate"
+  },
+  "show_notification": true
+}

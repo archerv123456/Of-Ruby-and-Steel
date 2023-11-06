@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 0.8,
+  "group": "steel",
+  "ingredient": {
+    "item": "examplemod:steel_ore"
+  },
+  "result": "examplemod:steel"
+}
